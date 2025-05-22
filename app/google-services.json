@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560030708697",
+    "project_id": "shopping-75a75",
+    "storage_bucket": "shopping-75a75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560030708697:android:8a4d4af7e81e399dd81fc8",
+        "android_client_info": {
+          "package_name": "ipca.aulas.shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIswvkHDLULMcfTRCltHy6OI6lc7bamV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
